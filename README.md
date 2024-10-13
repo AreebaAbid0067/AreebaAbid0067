@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Areeba Abid</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9637a03c-ef32-42a0-9085-4cf68673fd75)">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=areebaabid0067&label=Profile%20views&color=0e75b6&style=flat" alt="areebaabid0067" /> </p>
 
 - 🌱 I’m currently learning **Data Analysis, Machine Learning Engineering**
 
@@ -11,12 +13,15 @@
 
 - 📫 How to reach me **aareeba006@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq/edit?usp=sharing&ouid=117753577998959151806&rtpof=true&sd=true](https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq/edit?usp=sharing&ouid=117753577998959151806&rtpof=true&sd=true)
+
 - ⚡ Fun fact **Always keen to quench my thirst for knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/areeba abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeba abid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/areebaabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="areebaabid" height="30" width="40" /></a>
+<a href="https://discord.gg/Areeba Abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Areeba Abid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areebaabid0067&show_icons=true&locale=en&layout=compact" alt="areebaabid0067" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areebaabid0067&show_icons=true&locale=en" alt="areebaabid0067" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areebaabid0067&" alt="areebaabid0067" /></p>
