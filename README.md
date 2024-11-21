@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areebaabid0067&label=Profile%20views&color=0e75b6&style=flat" alt="areebaabid0067" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning Engineering**
+- 🌱 I’m currently learning **Data Analysis, Generative AI**
 
 - 👯 I’m looking to collaborate on **Intl Hackathons**
 
