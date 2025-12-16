@@ -82,4 +82,4 @@ A reflective AI-powered journaling experience that allows users to write down em
   <img width="55%" src="https://streak-stats.demolab.com?user=areebaabid0067&theme=tokyonight&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7"/>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AreebaAbid?ext=heatmap)
