@@ -78,8 +78,7 @@ A reflective AI-powered journaling experience that allows users to write down em
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=areebaabid0067&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9"/>
 </p>
 
-<p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=areebaabid0067&theme=tokyonight&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=AreebaAbid0067)
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AreebaAbid?ext=heatmap)
