@@ -80,5 +80,5 @@ A reflective AI-powered journaling experience that allows users to write down em
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AreebaAbid0067)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AreebaAbid?theme=github-dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AreebaAbid?theme=dark)
 
