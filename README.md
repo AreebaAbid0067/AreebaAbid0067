@@ -17,7 +17,7 @@ I build intelligent systems using Python and modern AI tools, with a strong inte
 - Comfortable with **Python**, **ML concepts**, and **LLM-based systems**
 - Reach me at: **aareeba006@gmail.com**
 - View my experiences:  
-  👉 [Resume](https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq)
+  👉 [Resume]([https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq](https://drive.google.com/file/d/1MTaEMrGicxILShYjCXLFkxUT0dK7TbA0/view?ths=true))
 
 ---
 
