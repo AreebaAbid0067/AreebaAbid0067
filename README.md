@@ -1,43 +1,83 @@
 <h1 align="center">Hi 👋, I'm Areeba Abid</h1>
-<h3 align="center">A passionate AI developer from Pakistan</h3>
+<h3 align="center">
+AI Developer · Data Analysis · Generative AI
+</h3>
 
-
-
-- 🌱 I’m currently learning **Data Analysis, Generative AI**
-
-- 👯 I’m looking to collaborate on **Intl Hackathons**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/areeba-abid-794781292/](https://www.linkedin.com/in/areeba-abid-794781292/)
-
-- 💬 Ask me about **Python, Generative AI**
-
-- 📫 How to reach me **aareeba006@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq/edit?usp=sharing&ouid=117753577998959151806&rtpof=true&sd=true](https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq/edit?usp=sharing&ouid=117753577998959151806&rtpof=true&sd=true)
-
-- ⚡ Fun fact **Always keen to quench my thirst for knowledge**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/areeba abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeba abid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/areebaabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="areebaabid" height="30" width="40" /></a>
-<a href="https://discord.gg/Areeba Abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Areeba Abid" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<!-- Stats row -->
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=areebaabid0067&layout=compact&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=areebaabid0067&show_icons=true&theme=tokyonight" />
+I build intelligent systems using Python and modern AI tools, with a strong interest in applying Generative AI to real-world problems through projects and international hackathons.
 </p>
 
-<!-- Streak row -->
+---
+
+### About Me
+- Currently learning **FastAPI** and **Generative AI**
+- Interested in collaborating on **International Hackathons**
+- Write technical articles on  
+  👉 [LinkedIn](https://www.linkedin.com/in/areeba-abid-794781292/)
+- Comfortable with **Python**, **ML concepts**, and **LLM-based systems**
+- Reach me at: **aareeba006@gmail.com**
+- View my experiences:  
+  👉 [Resume](https://docs.google.com/document/d/14gtr15srtb-CqKtY3Iq8cst8brIZl7aq)
+
+---
+
+<h3 align="center">Connect with me</h3>
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=areebaabid0067&theme=tokyonight&background=0D1117" />
+  <a href="https://www.linkedin.com/in/areeba-abid-794781292/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://www.leetcode.com/areebaabid" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  </a>
 </p>
 
+---
 
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+</p>
 
+---
+
+<h2 align="center">Featured Projects</h2>
+
+### 🧠 Resume Scorer (AI-based)
+An AI-powered system that evaluates resumes against job descriptions and provides relevance scores and feedback.  
+**Tech:** Python, NLP, Machine Learning, Prompt Engineering  
+**Use case:** Helps candidates understand resume-job fit and improve applications.
+
+---
+
+### 🏥 SurgiAI
+A Generative AI–based surgical assistant designed to support doctors before and during surgery using a Retrieval-Augmented Generation (RAG) approach.  
+**Tech:** LangChain, Vector Databases, LLMs  
+**Use case:** Provides procedural guidance and medical knowledge from trusted sources.
+
+---
+
+### ✍️ RevisitInk
+A reflective AI-powered journaling experience that allows users to write down emotions, memories, and thoughts, and then generates supportive text and calming visuals to encourage emotional release and self-reflection.
+**Tech:** Python, LLMs, Prompt Engineering  
+**Use case:** Helps users process emotions through structured writing and gentle AI-guided reflection.
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=areebaabid0067&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&text_color=c9d1d9"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=areebaabid0067&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9"/>
+</p>
+
+<p align="center">
+  <img width="55%" src="https://streak-stats.demolab.com?user=areebaabid0067&theme=tokyonight&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7"/>
+</p>
