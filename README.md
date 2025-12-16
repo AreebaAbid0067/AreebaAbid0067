@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areeba Abid</h1>
 <h3 align="center">
-AI Developer · FastAPI · Generative AI
+Software Engineer
 </h3>
 
 <p align="center">
